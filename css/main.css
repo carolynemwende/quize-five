@@ -1,0 +1,25 @@
+body{
+	background-image: url(../img/caro),url(../img/lol.jpg),url(../img/supernice.jpg); 
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position: left 50%, right 50% cover; 
+	background-size: 20%,20%, cover;
+
+}
+
+.cont{
+	width: 600px;
+	margin: 0 auto;
+	color: white;
+	line-height: 1.5em;
+	background-color:rgba(0,0,0,0.5);
+	padding: 30px; 
+	
+}
+.cont img{
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
+
+}
